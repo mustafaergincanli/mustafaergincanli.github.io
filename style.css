@@ -1,0 +1,15 @@
+div{
+    -moz-box-shadow:5px 5px 15px 3px #666;
+    -webkit-box-shadow: 5px 5px 15px 3px #666;
+    box-shadow: 5px 5px 15px 3px #666;
+    }
+body{
+    background-color: beige;
+    color: rgb(174, 21, 21);
+    font-style: italic;
+}    
+
+table, th, td {
+    border:1px solid black;
+    
+  }
